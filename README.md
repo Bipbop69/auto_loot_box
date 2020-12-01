@@ -1,2 +1,2 @@
-# auto_loot_box
+# Lootear BOX FULL
 [MACRO] Lootear BOX FULL
