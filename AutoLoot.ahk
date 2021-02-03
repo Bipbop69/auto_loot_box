@@ -25,24 +25,24 @@ Sleep %rand%
 
 '::
     Send, {Shift down}
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right, 740, 290
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right,  740, 350
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right,  740, 410
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right,  800, 410
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right,  860, 410
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right,  860, 350
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right,  860, 290
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right,  800, 290
-	RandSleep(150,200)
+	RandSleep(25,30)
     Click, Right,  800, 350
-	RandSleep(150,200)
+	RandSleep(25,30)
     Send, {Shift up}
 return
